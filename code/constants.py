@@ -1,0 +1,1 @@
+block_reward = 3.125
