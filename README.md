@@ -2,7 +2,7 @@
 
 # Fork After Withholding (FAW) Attacks on Blockchain
 
-## Group 22:
+## Group 22
 - **U21CS081** S. Jaswanth Reddy  
 - **U21CS096** J. Prajwala Anand  
 - **U21CS074** P. Mokshajna  
