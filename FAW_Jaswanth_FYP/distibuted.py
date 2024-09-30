@@ -1,0 +1,2 @@
+class DistributedBlockChain:
+    globalBlockChain = []

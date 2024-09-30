@@ -11,7 +11,7 @@ class Miner: # validated
     def getBalance(self):
         return self.rewards
     
-    def withdraw(self,amount):
+    def withdraw(self,amount):#transfer to miner
         if amount <=self.rewards:
             self.rewards -= amount
             return True
